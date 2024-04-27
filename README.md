@@ -422,8 +422,11 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ![image](https://github.com/Meenu2823/softweb/assets/139416219/2e558e50-8bbc-44f3-8eea-38b271d4eaee)
+
 ![image](https://github.com/Meenu2823/softweb/assets/139416219/f61decaa-4678-4f41-9659-70906e6b56cc)
+
 ![image](https://github.com/Meenu2823/softweb/assets/139416219/3e3a814c-d1ff-4ab9-9d04-144d2249ecd8)
+
 ![image](https://github.com/Meenu2823/softweb/assets/139416219/525c39ac-4d53-445c-81f9-046d524f6826)
 
 ## RESULT:
